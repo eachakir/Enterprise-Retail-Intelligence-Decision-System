@@ -22,11 +22,11 @@ The system is designed to support:
 
 # 🎯 Objectives
 
-* Build a centralized retail analytics solution
-* Design scalable SQL-based data models
-* Create interactive Power BI dashboards
-* Generate business insights from retail operations
-* Support strategic and operational decision-making
+* Build a centralized retail analytics solution.
+* Design scalable SQL-based data models.
+* Create interactive Power BI dashboards.
+* Generate business insights from retail operations.
+* Support strategic and operational decision-making.
 
 ---
 
@@ -34,45 +34,45 @@ The system is designed to support:
 
 ## Executive Monitoring
 
-* Revenue & profit tracking
-* Regional performance dashboards
-* KPI scorecards
-* Executive summary views
+* Revenue & profit tracking.
+* Regional performance dashboards.
+* KPI scorecards.
+* Executive summary views.
 
 ## Sales Analysis
 
-* Sales trends & seasonality
-* Product/category performance
-* Regional comparisons
-* Store-level analytics
+* Sales trends & seasonality.
+* Product/category performance.
+* Regional comparisons.
+* Store-level analytics.
 
 ## 📦 Inventory Optimization
 
-* Stock level monitoring
-* Inventory turnover analysis
-* Low-stock & overstock detection
-* Reorder insights
+* Stock level monitoring.
+* Inventory turnover analysis.
+* Low-stock & overstock detection.
+* Reorder insights.
 
 ## Customer Analytics
 
-* Customer segmentation
-* Purchase behavior analysis
-* Retention metrics
-* Customer lifetime value (CLV)
+* Customer segmentation.
+* Purchase behavior analysis.
+* Retention metrics.
+* Customer lifetime value (CLV).
 
 ## 📈 Forecasting
 
-* Sales forecasting
-* Demand prediction
-* Trend analysis
-* Seasonal projections
+* Sales forecasting.
+* Demand prediction.
+* Trend analysis.
+* Seasonal projections.
 
 ## Operational Alerts
 
-* Sales anomalies
-* Inventory shortages
-* KPI threshold alerts
-* Operational risk indicators
+* Sales anomalies.
+* Inventory shortages.
+* KPI threshold alerts.
+* Operational risk indicators.
 
 ---
 
