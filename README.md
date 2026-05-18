@@ -102,13 +102,5 @@ Enterprise-Retail-Intelligence-System/
 
 ---
 
-# 🚧 Status
-
-Project initialization phase.
-Architecture, datasets, SQL models, and Power BI dashboards will be added progressively.
-
----
-
-# Goal
-
+### Goal
 To simulate a real-world enterprise retail intelligence environment and demonstrate end-to-end business analytics using SQL and Power BI.
