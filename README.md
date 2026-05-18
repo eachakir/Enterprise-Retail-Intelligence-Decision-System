@@ -100,6 +100,11 @@ Enterprise-Retail-Intelligence-System/
 └── README.md
 ```
 
+## 🚧 Status
+
+Project initialization phase.
+Architecture, datasets, SQL models, and Power BI dashboards will be added progressively.
+
 ---
 
 ### Goal
