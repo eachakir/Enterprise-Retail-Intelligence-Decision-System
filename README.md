@@ -103,7 +103,7 @@ Enterprise-Retail-Intelligence-System/
 ## 🚧 Status
 
 Project initialization phase.
-Architecture, datasets, SQL models, and Power BI dashboards will be added progressively.
+Architecture, datasets, SQL models, and the Power BI dashboards will be added progressively.
 
 ---
 
